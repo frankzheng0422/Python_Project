@@ -17,8 +17,10 @@ A framework for python project
     - installation steps
     - modification guide line
     - issue list and solution
+    - template for issues
 7. Testing
 8. Dependency Management
+    - manage it properly
 9. CO & CD
 10. Code Review
 
